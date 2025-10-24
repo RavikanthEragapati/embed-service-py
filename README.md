@@ -1,3 +1,9 @@
+# Download mxbai-embed-large-v1
+
+git clone https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1
+
+Update the path in app.py 
+
 # embed-service-py
 embedding model served as API built using python
 
